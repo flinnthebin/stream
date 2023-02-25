@@ -1,2 +1,5 @@
 # stream
-infosec education
+
+## linux boxes
+
+- Mirai
